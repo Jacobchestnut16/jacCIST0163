@@ -1,0 +1,34 @@
+body{
+    background-color: rgb(238,238,238);
+}
+div.homeBarBlock{
+    width: 1155px;
+    margin: auto;
+    padding-top: 650px;
+}
+div.barBlock{
+    width: 1155px;
+    margin: auto;
+    padding-top: 2em;
+}
+.bar{
+    background-color: rgb(255,255,255);
+    color: black;
+    padding: 1em 1.5em;
+}
+div.body{
+    color: rgb(100,100,100);
+    line-height: 1.5;
+    font-family: STHeiti, serif;
+    font-size: 1em;
+}
+a{
+    color: rgb(0,145,255);
+}
+.linkls{
+    line-height: 2;
+}
+.col{
+    float: left;
+    width: 50%;
+}
